@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/damoah2/My-team-page/main/Screenshot%202022-11-26%20141032.png)
+![screenshot]()
 
 ### Built With
 
