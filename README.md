@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot]( )
+![screenshot](https://raw.githubusercontent.com/damoah2/Interior-Consultant/main/Screenshot%202023-02-25%20134258.png)
 
 ### Built With
 
@@ -45,6 +45,7 @@
 
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/Css/)
+- [Boostrap](https://getbootstrap.com/)
 
 ## Features
 
